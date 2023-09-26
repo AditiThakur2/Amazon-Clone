@@ -18,3 +18,19 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/yourusername/amazon-clone.git
+```
+Open the project directory and launch the index.html file in your web browser:
+
+```bash
+cd amazon-clone
+```
+## Usage
+
+Explore the project to understand how HTML and CSS are used to create the Amazon-like interface. Feel free to modify and experiment with the code to practice your web development skills. No server-side functionality or backend is included; this is purely a front-end exercise.
+
+## Contributing
+
+Contributions are welcome! If you have ideas for improvements, bug fixes, or additional features, please feel free to submit a pull request. Be sure to follow the project's code of conduct.
+
+## Acknowledgments
+Amazon for the design inspiration.
